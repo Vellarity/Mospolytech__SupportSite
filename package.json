@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "serv_build": "cd ./public && git clone https://github.com/user133727/MD-GUIDE && cd ../ && next build"
   },
   "dependencies": {
     "directory-tree": "^3.4.0",
