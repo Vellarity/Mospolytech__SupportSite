@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
+**/MD-GUIDE
 .pnp.js
 
 # testing
